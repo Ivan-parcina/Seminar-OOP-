@@ -1,8 +1,7 @@
 Igra Križić-Kružić(TicTacToe)
 Ovo je jednostavna igra Križić-Kružić implementirana u C++ konzolnoj aplikaciji.
 
-Kako igrati
-
+Kako igrati:
 Potrebno je odabrati način igre:
 1: Igrač vs Igrač: Dvije osobe izmjenjuju poteze.
 2: Igrač vs Računalo: Jedna osoba igra protiv računala.
